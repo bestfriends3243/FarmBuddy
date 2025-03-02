@@ -24,8 +24,7 @@ FarmBuddy is a **smart agricultural web application** designed to empower farmer
 | Google Cloud Vision API | AI-Based Image Analysis  |
 | TensorFlow              | Machine Learning Models  |
 | Google Dialogflow       | Chatbot Assistance       |
-| Firebase Firestore      | NoSQL Database           |
-| Firebase Hosting        | App Deployment           |
+
 
 ---
 
@@ -33,7 +32,7 @@ FarmBuddy is a **smart agricultural web application** designed to empower farmer
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/FarmBuddy.git
+   git clone https://github.com/bestfriends3243/FarmBuddy.git
    cd FarmBuddy
    ```
 2. Install dependencies:
